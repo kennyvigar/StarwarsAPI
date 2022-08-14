@@ -62,3 +62,16 @@
     background-color: white;
     color: black;
   }
+
+  .block {
+    display: block;
+    border: none;
+    background-color: #ffffff;
+    padding: 14px 28px;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    color: #673AB7;
+    
+  }
