@@ -37,7 +37,7 @@ const GetStarwarsInfoRandom = () => {
         <li>Skin Color: {request.skin_color}</li>
         <li>Birth Year: {request.birth_year} </li>
       </ul>
-      <button onClick={getRequest}>Click for another Fressshhh Starwars API hit!</button>
+      <button className="block" onClick={getRequest}>Click for another Fressshhh Starwars API hit!</button>
     </div>
   );
 };
